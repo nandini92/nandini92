@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nandini92
 - 🌱 I’m interested in sustainability and zero waste living!
-- 👀 I’m currently learning HTML and CSS as a beginner to Web Development
+- 👀 I’m currently a full time student at the Concordia University Web Development program.
 
 
 <!---
