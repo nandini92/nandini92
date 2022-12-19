@@ -3,6 +3,7 @@
 
 - 📡 Reach me at: nandini.asokan92@gmail.com
 - 🌱 I’m passionate about sustainability and zero waste living!
+- 📖 I’m currently reading "Algorithm Design" by Jon Kleinberg and Eva Tardos
 
 ---
 <h3 align="center"> I work with </h3>
