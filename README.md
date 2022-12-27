@@ -18,7 +18,8 @@
 ---
 <h3 align="center"> I'm learning </h3>
 <div align="center">
-<img width="100px" src="https://user-images.githubusercontent.com/10675806/208257308-20bcd115-498e-4d59-bc24-ecf7af0ade34.png" /> 
+<img width="100px" src="https://user-images.githubusercontent.com/10675806/208257308-20bcd115-498e-4d59-bc24-ecf7af0ade34.png" />
+<img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
 
 <!---
