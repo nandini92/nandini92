@@ -1,27 +1,14 @@
-<h1 align="center"> Nandini Asokan </h1>
-<h2 align="center"> Full-Stack Developer </h2>
+# 💫 About Me:
+👯 I’m looking to collaborate on projects with real social / climate impact. <br>📖 I’m currently reading "Fellowship of the Ring" cause I wanted to enjoy the LoTR franchise on a deeper level.<br>💬 Got a project for me? Wanna chat about board games, BJJ and DnD?  Reach me at: nandini.asokan92@gmail.com
 
-- 📡 Reach me at: nandini.asokan92@gmail.com
-- 🌱 I’m passionate about sustainability and zero waste living!
-- 📖 I’m currently reading "Algorithm Design" by Jon Kleinberg and Eva Tardos
 
----
-<h3 align="center"> I work with </h3>
-<div align="center">
-<img width="100px" src="https://user-images.githubusercontent.com/10675806/206295271-31c32925-ddcf-485b-acf2-bc51fc98915a.png" /> 
-<img width="100px" src="https://user-images.githubusercontent.com/10675806/206295347-7acaea2b-6ec8-4edd-bc8f-4b023fe69cd9.png" />  
-<img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-<img width="100px"  src="https://user-images.githubusercontent.com/10675806/206295366-e00f4f36-d09e-4d47-bd90-2406e9e97e48.png" /> 
-<img width="100px"  src="https://user-images.githubusercontent.com/10675806/206295378-38937501-021b-47ac-aea9-5b9ffa8d8ac5.png" /> 
-<img width="100px"  src="https://user-images.githubusercontent.com/10675806/206295396-4adfdf27-0d20-497e-9ab7-855ead36fb33.png" /> 
-<img width="100px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nandini92) 
 
----
-<h3 align="center"> I'm learning </h3>
-<div align="center">
-<img width="100px" src="https://user-images.githubusercontent.com/10675806/208257308-20bcd115-498e-4d59-bc24-ecf7af0ade34.png" />
-</div>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!---
 nandini92/nandini92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
