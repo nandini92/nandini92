@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on projects with real social / climate impact. <br>📖 I’m currently reading "Fellowship of the Ring" cause I wanted to enjoy the LoTR franchise on a deeper level.<br>💬 Got a project for me? Wanna chat about board games, BJJ and DnD?  Reach me at: nandini.asokan92@gmail.com
+👯 I’m looking to collaborate on projects with real social / climate impact. 💬 Got a project for me? Wanna chat about board games, BJJ and DnD?  Reach me at: nandini.asokan92@gmail.com
 
 
 ## 🌐 Socials:
